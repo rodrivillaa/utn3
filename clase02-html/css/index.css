@@ -1,0 +1,60 @@
+/* selector {
+    propiedad: valor;
+    propiedad: valor;
+}
+    */
+    h2{/* selector global */
+    color:blue;
+    font-size: 45px;
+    background-color: black;
+    /* text-align: center; */
+    }
+
+    /* selector de clase */
+    .soloyo{
+        text-align: right;
+    }
+
+    /* selector por id */
+    #miparrafo{
+        margin-top: 80px;
+    }
+
+    h1{
+        border-top: solid 5px black;
+        border-right: dashed 3px rgb(44, 44, 153);
+        border-bottom: solid 10px gray;
+        border-left: dotted 12px red;
+        /* relleno */
+        padding-top: 25px;/* parte de adentro de la caja */
+        padding-left: 45px;
+        padding-right: 50px;
+        padding-bottom: 25px;
+       
+        /* margen */margin-bottom: 50px;
+        margin-right: 100px;
+        margin-top: 80px;
+        margin-left: 150px;
+    }
+
+    .centrar{
+        text-align: center;
+    }
+
+  /*   ul{
+        /* text-align: center; */
+
+  
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 15px;
+    padding: 25px;
+    border: 1px solid black;
+    background: rgb(185, 118, 118);
+    
+}
+
+a{
+    text-decoration: none;
+}
