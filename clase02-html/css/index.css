@@ -19,6 +19,12 @@
     #miparrafo{
         margin-top: 80px;
     }
+    #mietiqueta{
+        text-align: center;
+        color: blueviolet;
+    
+    }
+
 
     h1{
         border-top: solid 5px black;
@@ -39,6 +45,7 @@
 
     .centrar{
         text-align: center;
+        
     }
 
   /*   ul{
